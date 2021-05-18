@@ -1,0 +1,18 @@
+/* div {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+} */
+* {
+  margin: 0;
+  padding: 0;
+}
+input,
+p {
+  font-size: 2rem;
+}
