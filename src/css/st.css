@@ -1,0 +1,22 @@
+/* div {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+} */
+* {
+  margin: 0;
+  padding: 0;
+}
+button {
+  font-size: 2rem;
+  font-family: jost;
+  padding: 0.5rem;
+}
+h1 {
+  font-weight: 500;
+}
