@@ -1,0 +1,32 @@
+.myClass {
+  border: 1px solid #000;
+  display: grid;
+  place-content: center;
+  justify-items: space-between;
+  grid-template-columns: 5fr 1fr;
+  padding: 1rem;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-items: center;
+}
+form textarea {
+  height: 100px;
+}
+.list {
+  position: relative;
+}
+.over {
+  position: absolute;
+  background-color: wheat;
+  top: 50%;
+  left: 50%;
+  right: 0;
+  bottom: 0;
+  transform: translate(-50%, -50%);
+  height: 100px;
+  width: 100px;
+}
